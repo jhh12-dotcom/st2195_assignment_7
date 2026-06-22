@@ -54,3 +54,5 @@ An evaluation of the generated plots highlights distinct demographic trends:
 * **Socioeconomic Stratification:** Ticket class played a critical role in safety access. 1st Class passengers experienced much higher survival rates than 3rd Class passengers. While wealth could not perfectly guarantee safety, it heavily tilted the probabilities.
 * **Age Discrepancies:** Children (particularly infants and young children in 1st and 2nd class) achieved very favorable survival densities. Conversely, being an older passenger in 3rd class carried the highest statistical risk, as older age groups in 1st class retained significantly wider survival footprints.
 * **Family Size Patterns:** 3rd class passengers contained the widest variation and largest extremes of family sizes (large immigrant families traveling together). 1st and 2nd class tickets were heavily dominated by individuals or small nuclear pairings (1 to 3 members).
+
+<img width="902" height="515" alt="Screenshot 2026-06-22 at 10 08 33 AM" src="https://github.com/user-attachments/assets/54345692-bc2a-44c0-8974-9e1cf19b8785" />
